@@ -3,7 +3,7 @@ This project is a simple time sheet manager application. It allows users to log 
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites   ADDED for LEARNING
 To build and run this project you will require the following:
 - DotNet Core 8
 
